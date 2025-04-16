@@ -1,2 +1,2 @@
 # calendar-generator
-Generates the monthly calendar of any month.
+Generates the monthly calendar of any year.
